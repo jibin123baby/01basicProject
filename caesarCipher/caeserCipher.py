@@ -38,3 +38,4 @@ while isContinue:
         isContinue = True
     else:
         isContinue = False
+        print("Good Bye")
